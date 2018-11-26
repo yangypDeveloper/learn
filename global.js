@@ -1,3 +1,3 @@
 var global {
-    url:'http://www.game.com'
+    url:'http://www.testgame.com'
 }
